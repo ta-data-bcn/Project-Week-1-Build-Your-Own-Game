@@ -38,6 +38,8 @@ How did you organize yourself? Did you use any tools?
 
 <img src="https://github.com/kerimbasbug/Project-Week-1-Build-Your-Own-Game/blob/master/images/Screen%20Shot%202019-06-27%20at%2016.57.02.png">
 
+<img src="https://github.com/kerimbasbug/Project-Week-1-Build-Your-Own-Game/blob/master/images/Screen%20Shot%202019-06-27%20at%2017.00.23.png">
+
 
 ![](Project-Week-1-Build-Your-Own-Game/blob/master/images/Screen%20Shot%202019-06-27%20at%2016.57.02.png)
 
