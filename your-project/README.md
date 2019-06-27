@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Hangman
+*[Kerim Basbug]*
 
-*[Your Cohort, Campus & Date]*
+*[JUN 19, Barcelona & 26.06.19]*
 
 ## Content
 - [Project Description](#project-description)
@@ -14,12 +14,18 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about what what you chose to build and why. 
+
+This is a classic game "Hangman"
+Min: Running the game in command line
+Max: Desining the UI and succesfully combining with the game
 
 <a name="workflow"></a>
 
 ## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
+
+1- Try to run it on command line
+2- Design the UI
+3-Combine the UI & game
 
 <a name="organization"></a>
 
@@ -33,4 +39,4 @@ Include the links to your repository, slides and trello. Feel free to include an
 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/tDXkO3sF/hangman)  
