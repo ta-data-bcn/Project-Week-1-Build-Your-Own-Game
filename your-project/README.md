@@ -24,9 +24,9 @@ Max: Desining the UI and succesfully combining with the game
 
 ## Workflow
 
-1- Try to run it on command line
-2- Design the UI
-3- Combine the UI & game
+1- Try to run it on command line  
+2- Design the UI  
+3- Combine the UI & game  
 
 <a name="organization"></a>
 
