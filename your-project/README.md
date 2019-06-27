@@ -16,9 +16,9 @@
 
 ## Project Description
 
-*This is a classic game "Hangman"
-*Min: Running the game in command line
-*Max: Desining the UI and succesfully combining with the game
+This is a classic game "Hangman"\n
+Min: Running the game in command line\n
+Max: Desining the UI and succesfully combining with the game
 
 <a name="workflow"></a>
 
