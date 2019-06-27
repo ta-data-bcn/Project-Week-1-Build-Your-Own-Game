@@ -34,9 +34,11 @@ How did you organize yourself? Did you use any tools?
 
 <a name="links"></a>
 
-##Images ss
+## Images
 
 ![](Project-Week-1-Build-Your-Own-Game/blob/master/images/Screen%20Shot%202019-06-27%20at%2016.57.02.png)
+
+![](kerimbasbug/Project-Week-1-Build-Your-Own-Game/blob/master/images/Screen%20Shot%202019-06-27%20at%2016.57.02.png)
 
 ## Links
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
