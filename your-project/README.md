@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Hangman Game
-*[Kerim Basbug]*
+*Kerim Başbuğ*
 
-*[JUN 19, Barcelona & 26.06.19]*
+*[JUN 19, Barcelona & 27.06.19]*
 
 ## Content
 - [Project Description](#project-description)
