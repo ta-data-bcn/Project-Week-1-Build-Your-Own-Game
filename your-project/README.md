@@ -39,7 +39,6 @@ How did you organize yourself? Did you use any tools?
 <img src="https://github.com/kerimbasbug/Project-Week-1-Build-Your-Own-Game/blob/master/images/merged_images.jpg">
 
 ## Links
-Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
