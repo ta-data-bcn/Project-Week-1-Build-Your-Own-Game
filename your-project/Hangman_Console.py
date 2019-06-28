@@ -17,8 +17,6 @@ key_word_as_list = []
 for i in range(len(key_word)):
     key_word_as_list.append(key_word[i].upper())
 
-print(key_word_as_list) # DELETE THIS BEFORE DEMO
-
 # prints the word in the console
 def print_updated_str(user_ch):
     for i in range(len(key_word_as_list)):

@@ -40,6 +40,6 @@ I've used the Trello template to organize the project and pyfiglet library to cr
 ## Links
 
 [Repository](https://github.com/)  
-[Slides](https://docs.google.com/presentation/d/1m9l4JxVje9cIzi5-FbxIHr7mIOB7wwdKWK00VFID6UM/edit?usp=sharing)  
+[Slides](https://slides.com/kerimbasbug/deck/fullscreen)  
 [Trello](https://trello.com/b/tDXkO3sF/hangman)  
 [pyfiglet](https://github.com/pwaller/pyfiglet)
