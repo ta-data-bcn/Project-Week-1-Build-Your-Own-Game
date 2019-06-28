@@ -29,7 +29,7 @@ This is the classic game "Hangman" with ASCII style graphics. Have fun!
 
 ## Organization
 
-I've used the Trello template to organize the project and pyfiglet library to create the ASCII "letters".
+I've used the Trello template to organize the project and pyfiglet module to create the ASCII "letters".
 
 <a name="links"></a>
 
