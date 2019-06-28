@@ -23,7 +23,7 @@ This is the classic game "Hangman" with ASCII style graphics. Have fun!
 
 1- Designing the game  
 2- Coding the game  
-3- Testing & Debuging 
+3- Testing & Debuging   
 4- Adding comments
 <a name="organization"></a>
 
