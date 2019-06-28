@@ -15,19 +15,22 @@
 
 ## Project Description
 
-This is the classic game "Hangman".  
+This is the classic game "Hangman" with ASCII style graphics. Have fun! 
 
 <a name="workflow"></a>
 
 ## Workflow
 
-1 - Designing the game  
+1- Designing the game  
 2- Code it  
 3- Test & Debug 
 <a name="organization"></a>
 
 ## Organization
 How did you organize yourself? Did you use any tools?
+
+I've used the Trello template to organize.   
+I've used pyfiglet library to create the "letters"
 
 <a name="links"></a>
 
