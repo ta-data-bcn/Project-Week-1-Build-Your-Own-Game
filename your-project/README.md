@@ -28,10 +28,8 @@ This is the classic game "Hangman" with ASCII style graphics. Have fun!
 <a name="organization"></a>
 
 ## Organization
-How did you organize yourself? Did you use any tools?
 
-I've used the Trello template to organize.   
-I've used pyfiglet library to create the "letters"
+I've used the Trello template to organize the project and pyfiglet library to create the ASCII "letters".
 
 <a name="links"></a>
 
