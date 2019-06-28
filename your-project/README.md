@@ -21,10 +21,9 @@ This is the classic game "Hangman".
 
 ## Workflow
 
-1- Try to run it on command line  
-2- Design the UI  
-3- Combine the UI & game  
-
+1 - Designing the game  
+2- Code it  
+3- Test & Debug 
 <a name="organization"></a>
 
 ## Organization
