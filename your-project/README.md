@@ -2,7 +2,7 @@
 
 # Hangman Game
 *Kerim Başbuğ*  
-*JUN 19, Barcelona & 27.06.19*
+*JUN 19, Barcelona & 28.06.19*
 
 ## Content
 - [Project Description](#project-description)
@@ -15,22 +15,21 @@
 
 ## Project Description
 
-This is a classic game "Hangman"  
-Min: Running the game in command line<br/>
-Max: Desining the UI and succesfully combining with the game
+This is the classic game "Hangman" with ASCII style graphics. Have fun! 
 
 <a name="workflow"></a>
 
 ## Workflow
 
-1- Try to run it on command line  
-2- Design the UI  
-3- Combine the UI & game  
-
+1- Designing the game  
+2- Coding the game  
+3- Testing & Debuging   
+4- Adding comments
 <a name="organization"></a>
 
 ## Organization
-How did you organize yourself? Did you use any tools?
+
+I've used the Trello template to organize the project and pyfiglet library to create the ASCII "letters".
 
 <a name="links"></a>
 
@@ -39,9 +38,8 @@ How did you organize yourself? Did you use any tools?
 <img src="https://github.com/kerimbasbug/Project-Week-1-Build-Your-Own-Game/blob/master/images/merged_images.jpg">
 
 ## Links
-Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
 [Repository](https://github.com/)  
-[Slides](https://slides.com/)  
+[Slides](https://docs.google.com/presentation/d/1m9l4JxVje9cIzi5-FbxIHr7mIOB7wwdKWK00VFID6UM/edit?usp=sharing)  
 [Trello](https://trello.com/b/tDXkO3sF/hangman)  
 [pyfiglet](https://github.com/pwaller/pyfiglet)
