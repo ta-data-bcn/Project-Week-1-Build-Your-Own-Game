@@ -15,9 +15,7 @@
 
 ## Project Description
 
-This is a classic game "Hangman"  
-Min: Running the game in command line<br/>
-Max: Desining the UI and succesfully combining with the game
+This is the classic game "Hangman".  
 
 <a name="workflow"></a>
 
@@ -41,6 +39,6 @@ How did you organize yourself? Did you use any tools?
 ## Links
 
 [Repository](https://github.com/)  
-[Slides](https://slides.com/)  
+[Slides](https://docs.google.com/presentation/d/1m9l4JxVje9cIzi5-FbxIHr7mIOB7wwdKWK00VFID6UM/edit?usp=sharing)  
 [Trello](https://trello.com/b/tDXkO3sF/hangman)  
 [pyfiglet](https://github.com/pwaller/pyfiglet)
