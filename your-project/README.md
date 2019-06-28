@@ -2,7 +2,7 @@
 
 # Hangman Game
 *Kerim Başbuğ*  
-*JUN 19, Barcelona & 27.06.19*
+*JUN 19, Barcelona & 28.06.19*
 
 ## Content
 - [Project Description](#project-description)
