@@ -11,15 +11,11 @@
 - [Schedule](#schedule)
 - [Presentation](#presentation)
 
-<a name="project-description"></a>
-
 ## Project Description
 In this project, you will create your first software!
 You are tasked with creating a **game** that interacts with the user, using the functions and basic python resources you have learned during the week. Your game will be able to take an input from the user and provide an output. 
 
 You will also present your game to the class. 
-
-<a name="games"></a>
 
 ## Games
 You must come to an agreement with your colleagues so that each of you develops one of the following games:
@@ -33,8 +29,6 @@ You must come to an agreement with your colleagues so that each of you develops 
 * Blackjack
 * Soldier & Dice (Risk)
 
-<a name="project-goals"></a>
-
 ## Project Goals
 During this project you will:
 * Fork and manage your own git repository. 
@@ -42,19 +36,17 @@ During this project you will:
 * Put into practice the basic python concepts learned during the week.
 * Get used to public presentations. 
 
-<a name="requirements-&-deliverables"></a>
-
 ## Requirements & Deliverables
 The **mandatory** requirements that this project needs to satisfy are: 
 * The project must be planned. That is why creating a Kanban or Trello Board is important. You can find a template for Trello [here](https://trello.com/b/pc2CNZTo/project-1-build-your-own-game). Remember that you **CAN'T CODE** until your project is planned. 
-* Your repository must be clean and organized, which means that it must include a *.gitignore* file and have a well-structured file organization. 
+* Your repository must be clean and organized, which means that it must include a *.gitignore* file and a README file, as well as have a well-structured file organization. 
 * Your code must include functions. 
 
 The **mandatory** deliverables that you must turn in are:
-* Link to the repository you used while building your project. Remember to commit often to avoid trouble in case you mess up: this means more than 1 commit!.
-* Link to Trello or picture of your Kanban Board. Include the link or picture in the README file. 
+* Link to the repository you used while building your project. The repository must include all the files you used to build your game. Remember to commit often to avoid trouble in case you mess up: this means more than 1 commit!.
+* Link to Trello or picture of your Kanban Board. Include the link or picture in the README file.
 
-<a name="mentoring"></a>
+The **deadline** to turn in the deliverables is right before the project presentations. 
 
 ## Mentoring
 One of the TAs will be your mentor!
@@ -68,25 +60,21 @@ Your mentor is **not** meant to:
 * Know everything.
 * Be your manager. You have to be responsible of your own tasks!
 
-<a name="schedule"></a>
-
 ## Schedule
 | Wednesday |  
 |:--------:|
 * Choose your game.
 * Plan your project. Remember that we are providing you with a Trello [template](https://trello.com/b/pc2CNZTo/project-1-build-your-own-game). 
-* Create your repository and edit the README overview. You can find a [template](https://github.com/ta-data-bcn/Project-Week-1-Build-Your-Own-Game/blob/master/your-project/README.md) for your README file in this repository. 
+* Fork the repository and edit the README overview. You can find a [template](https://github.com/ta-data-bcn/Project-Week-1-Build-Your-Own-Game/blob/master/your-project/README.md) for your README file in this repository. Remember to keep the README up-to-date. 
 * Once you finish, start coding!
 
 | Thursday |  
 |:--------:|
-* Start preparing the slides for your presentation in the evening.
+* In the evening, start preparing the slides for Friday's presentation. 
 
 | Friday|  
 |:--------:|
 * Presentation time at **4PM**! There will be a 15-minute break during the presentations.
-
-<a name="presentation"></a>
 
 ## Presentation
 The presentation time limit is **5 minutes**! You will have **3 minutes** to present your project to the class and then **2 minutes** for Q&A. 

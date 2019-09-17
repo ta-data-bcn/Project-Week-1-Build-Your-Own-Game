@@ -12,32 +12,22 @@
 - [Organization](#organization)
 - [Links](#links)
 
-<a name="project-description"></a>
-
 ## Project Description
 Write a short description of your project. Write 1-2 sentences about what what you chose to build and why. 
-
-<a name="rules"></a>
 
 ## Rules
 Describe briefly the rules of the game you chose. 
 
-<a name="workflow"></a>
-
 ## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
-
-<a name="organization"></a>
+Outline the workflow you used in your project. What are the steps you went through?
 
 ## Organization
-How did you organize yourself? Did you use any tools?
+How did you organize your work? Did you use any tools like a trello or kanban board?
 
-How did you organize your repository? Explain your folder and file structure.
-
-<a name="links"></a>
+What does your repository look like? Explain your folder and file structure.
 
 ## Links
-Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
+Include links to your repository, slides and trello/kanban board. Feel free to include any other links associated with your project. 
 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
