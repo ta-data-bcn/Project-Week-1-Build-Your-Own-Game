@@ -20,14 +20,14 @@ You will also present your game to the class.
 ## Games
 You must come to an agreement with your colleagues so that each of you develops one of the following games:
 
-* Strong Random Password Generator (Ex: https://strongpasswordgenerator.com/)
-* Guess The Number (Ex: https://www.funbrain.com/games/guess-the-number)
-* Hangman (Ex: https://www.coolmathgames.com/0-hangman)
-* Message Encryption & Decryption (Ex: https://www.base64decode.org/)
-* Mastermind (Ex: https://www.webgamesonline.com/mastermind/)
-* Tic Tac Toe(Ex: https://www.google.com/search?q=tic+tac+toe&oq=tic+tac+toe&aqs=chrome..69i57j0l5.1876j0j4&sourceid=chrome&ie=UTF-8)
-* Blackjack (Rules: https://bicyclecards.com/how-to-play/blackjack/)
-* Soldier & Dice (Risk) (Rules: https://en.wikipedia.org/wiki/Risk_(game)#Attack_and_defense)
+* [Strong Random Password Generator](https://strongpasswordgenerator.com/)
+* [Guess The Number](https://www.funbrain.com/games/guess-the-number)
+* [Hangman](https://www.coolmathgames.com/0-hangman)
+* [Message Encryption & Decryption](https://www.base64decode.org/)
+* [Mastermind](https://www.webgamesonline.com/mastermind/)
+* [Tic Tac Toe](https://www.google.com/search?q=tic+tac+toe&oq=tic+tac+toe&aqs=chrome..69i57j0l5.1876j0j4&sourceid=chrome&ie=UTF-8)
+* [Blackjack](https://bicyclecards.com/how-to-play/blackjack/)
+* [Soldier & Dice (Risk)](https://en.wikipedia.org/wiki/Risk_(game)#Attack_and_defense)
 
 ## Project Goals
 During this project you will:
