@@ -20,8 +20,11 @@ I choose the hangman because is a good beginning to code/programming in python u
 The rules of the game are the following:
 
 1st Rule:Secret name are designed for just 1 word.
-2nd Rule:All secret names are written in lower case, although player can type in upper case if he wants (it is automatized process)
+
+2nd Rule:All secret names are written in lower case, although player can type in upper case if he wants (it is automatized process).
+
 3rd rule: There are 3 levels of difficulty in function of how much mistakes has available. 
+
 4th rule: A mistake is taken into accoun just when your fail(obvious)
 
 ## Workflow
@@ -34,9 +37,9 @@ The outline of the workflow is:
 
 4. Creation of list that combine each letter of the secret word with its position.
 
-5.Define initial values and list for the loops.
+5. Define initial values and list for the loops.
 
-6.Execute the game.
+6. Execute the game.
 
 ## Organization
 How did you organize your work? Did you use any tools like a kanban board?
