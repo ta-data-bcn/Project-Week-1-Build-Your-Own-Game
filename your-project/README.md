@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
+# Mastermind
 *[Elliott Coyne]*
 
 *[Data, BCN, October 2019]*
