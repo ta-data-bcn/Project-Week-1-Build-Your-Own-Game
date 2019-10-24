@@ -42,7 +42,7 @@ Inside the folder: .ipynb .README.md
 
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
+Repo: https://github.com/anarmcm/Project-Week-1-Build-Your-Own-Game
 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
