@@ -42,13 +42,9 @@ The outline of the workflow is:
 6. Execute the game.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+The code is in .ipynb extension. This is very useful at the time to type the code and run it, because you can see in each cell, each step is defined in the workflow (see above).
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
-
 [Repository](https://github.com/rubenmartinezlorente)  
-[Slides](https://slides.com/)  
+[Slides](https://drive.google.com/open?id=1hvNhMxg8VETes3hdmviO2sruK0DD3cqJiQLIl9pV47o)  
 [Trello](https://trello.com/en)  
