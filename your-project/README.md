@@ -47,4 +47,4 @@ The code is in .ipynb extension. This is very useful at the time to type the cod
 ## Links
 [Repository](https://github.com/rubenmartinezlorente)  
 [Slides](https://drive.google.com/open?id=1hvNhMxg8VETes3hdmviO2sruK0DD3cqJiQLIl9pV47o)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/G7vVQfsj/proyecto-1-build-your-own-game)  
