@@ -1,0 +1,17 @@
+I want to create a program that offers the user a safe random password with certain requirements. What does safe password mean?
+
+
+Generate a random string of:
+-alphanumeric (combination of letters and numbers)
+-a fixed length. (16 characters)
+-lower case and upper case.
+-at least one special character
+
+1. I will need to import some modules such as "random" and "strings"
+2. I will need to generate a function (def)
+3. The function will first print a greeting to the user "Welcome to the best random password generator ever!"
+4. I will need to set the length of the password
+5. I will need to set some lower case characters and some upper case 
+6. I will need to set some special characters
+7. The function will print a message including the password and the string "This is your new password: "
+8. close the function
