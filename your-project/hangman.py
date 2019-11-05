@@ -47,32 +47,13 @@ while (True):
         break
     letter  = f.say_letter(word)        ## choose a letter to keep playing and guessing.      
 
-        ###Check if our letter is in the secret word
-    
-    count = 0 #how many letters you guess in each round. this count re-start to zero for each round (each new letter)   
-    for i in range(len(di)):
-        #print(di[i][0],i)
-        if letter == di[i][0]:
-            mystery_word[di[i][1]] = letter
-            count += 1
-            pass
-    if count > 0:                           #There is one or more places in the secret word where letter matches
-        checking_letter = ''.join(mystery_word)
-        print(f'STATUS: {mystery_word}')
-        if checking_letter != word:
-            print("very well, you guess one letter")
-        else:
-            print('You win the game, CONGRATULATIONS!!!')
-            break
-    else:                                  #There is no place in the secret word with the letter.
-        count_mistakes += 1
-        print(f'STATUS: {mystery_word}')
-        print(f"this letter doesn't match with our secret word...sorry buddy!!, you have {count_mistakes} mistakes")
-    print(f'You have {count_mistakes} from {mistake} mistakes \n\n\n\n\n\n')
+        
+    if  f.check_letter(di, mystery_word,letter, word, count_mistakes, mistake): ###Check if our letter is in the secret word
+        break
     
     if count_mistakes >= mistake:                  #Check if you have the same or more mistakes than the allowed ones (dead body's pieces)
         print('You have been hang buddy....RIP')
         break
 
-mystery_word = '*'*len(word)n
+mystery_word = '*'*len(word)
 print(mystery_word)
