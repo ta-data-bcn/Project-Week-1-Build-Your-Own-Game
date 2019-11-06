@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Rubén Martínez Lorente]*
+# GAME: **The Hangman**
+Rubén Martínez Lorente
 
 *[Data Analytics, Ironhack Bcn & 25/10/2019]*
 
