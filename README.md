@@ -53,5 +53,5 @@ My repository is simple and clean. It only contains 3 necessary files:
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/Yazfm/Project-Week-1-Strong-Password-Generator)  
-[Slides](https://slides.com/)  
+[Google Slides](https://docs.google.com/presentation/d/1aJREE8U1MSY5rmgCp6LWuMddPhZCAxzGk6R6BGR805U/edit?usp=sharing)  
 [Trello](https://trello.com/b/oN0vA88Y/project-1-strong-password-generator)  
