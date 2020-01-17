@@ -53,7 +53,7 @@ Include links to your repository, slides and kanban board. Feel free to include 
 
 [Repository](https://github.com/Binardino/Project-Week-1-Build-Your-Own-Game)
 
-Google Slides : https://docs.google.com/presentation/d/1CKFye4etqn6Yuqsy7ocKt14mZGqb288fgxPBKdMJfVA/edit#slide=id.p
+[Google Slides](https://docs.google.com/presentation/d/1CKFye4etqn6Yuqsy7ocKt14mZGqb288fgxPBKdMJfVA/edit?usp=sharing)
 
 [Trello](https://trello.com/b/e7KlTXlW/mastermind)
 
