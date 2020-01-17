@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# Disney Hangman
+*[Anna Riera]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics, BCN & 17/01/2020]*
 
 ## Content
 - [Project Description](#project-description)
