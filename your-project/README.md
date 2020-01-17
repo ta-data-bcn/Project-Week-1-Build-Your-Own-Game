@@ -30,6 +30,6 @@ I kept my repository as simple as possible, using only one jupyter notebook and 
 
 ## Links
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
+[Repository](https://github.com/Zak-ScorpiuS/Project-Week-1-Build-Your-Own-Game)  
+[Slides](https://docs.google.com/presentation/d/1ss1N0Bvz894gWU3qdzEItFU3xPKS_dJ3nS6HhhZZRs8/edit#slide=id.g6dc1d2d478_0_82)  
 [Trello](https://trello.com/b/HsF1Nj9C/project-1-building-blackjack)  
