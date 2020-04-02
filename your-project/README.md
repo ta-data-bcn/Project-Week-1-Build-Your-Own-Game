@@ -25,11 +25,12 @@ I first researched the game, then pseudo-coded with pen and paper. I then coded 
 I used Trello to itemise my tasks and to keep track of where I am at. I used git to commit files to my GitHub, and .gitignore to ensure that I didn't upload anything unnecessary! 
 
 What does your repository look like? Explain your folder and file structure.
-
+My repository consists of the main Jupyter Notebook which contains the code for the game.
+It also includes a folder where the list of words, to be used by the game, is stored and called from. 
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/peiriant/Project-Week-1-Build-Your-Own-Game)  
 [Slides](https://slides.com/)  
-[Trello] (https://trello.com/b/YMcs63lD/project-1-build-your-own-game-hangman)
+[Trello](https://trello.com/b/YMcs63lD/project-1-build-your-own-game-hangman)
