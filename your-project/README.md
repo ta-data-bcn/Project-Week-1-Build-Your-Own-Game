@@ -32,5 +32,5 @@ It also includes a folder where the list of words, to be used by the game, is st
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/peiriant/Project-Week-1-Build-Your-Own-Game)  
-[Slides](https://slides.com/)  
+[Slides](https://docs.google.com/presentation/d/1bwK5xhk4aT6DClJvR1NNJoIA1hDCeiF--Wg67DtMycA/edit#slide=id.g52d9ccbd05_0_153)
 [Trello](https://trello.com/b/YMcs63lD/project-1-build-your-own-game-hangman)
