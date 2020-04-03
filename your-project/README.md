@@ -3,7 +3,7 @@
 # Title of Your Project
 *[Andreu Carreño Mateu]*
 
-*[Data Science, Barcelona, 03/04/20]*
+*[Data Analytics, Barcelona, 03/04/20]*
 
 ## Content
 - [Project Description](#project-description)
