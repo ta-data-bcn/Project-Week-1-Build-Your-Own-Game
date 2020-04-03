@@ -37,6 +37,6 @@ Inside the folder are two files, the first is a Jupyter Notebook where you can s
 
 ## Links
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
+[Repository](https://github.com/aitorquinza/Project-Week-1-Build-Your-Own-Game)  
+[Slides](https://docs.google.com/presentation/d/1d_c7sP1ZlrJB8JMfebqOmb7sCZSmrqp0Wh3iXeNbx5g/edit?usp=sharing)  
 [Trello](https://trello.com/b/dFUYO0Od/guess-the-number)  
