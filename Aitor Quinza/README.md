@@ -1,9 +1,9 @@
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
+<img src="https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/4017/s300/logo-ironhack-blue.png" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# Guess the Number
+*Aitor Quinza Garcia*
 
-*[Your Cohort, Campus & Date]*
+*Ironhack Data Analytics, Barcelona & March 2020*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,22 +13,30 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+The software generates a game that the user needs to guess.
 
 ## Rules
-Briefly describe the rules of the game.
+- Answer your name question.
+- Always with the inputs you have to write what it ask for.
+- Choose the level you want to play.
+- Write the number you think it is, but take care because you have limited tries.
+- The script will finish after you guess the number or you reach all the available tries.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+- When you open the script it will ask your name.
+- Then the game gives you 3 levels to choose.
+- After the user selects the level, the game will ask for a number.
+- The script gives an answer about the chosen number by the user, saying if it's greater, lower or you guessed it.
+- Finally, the game shows how many tries you did and if you guessed the number.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+Used Trello, as a Kanban Method, to keep track of the tasks to do and those pending tasks.
 
-What does your repository look like? Explain your folder and file structure.
+Inside the repository there's a folder called "*Aitor Quinza*".
+Inside the folder are two files, the first is a Jupyter Notebook where you can see a detailed version with comments and the second one is a Python script you can download and run.
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/dFUYO0Od/guess-the-number)  
