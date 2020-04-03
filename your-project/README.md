@@ -45,5 +45,6 @@ My jupyter file is divided in 2 sections. The first one is where I defined all t
 
 ## Links
 
-[Repository](https://https://github.com/Javierhvb/Project-Week-1-Build-Your-Own-Game)  
+[Repository](https://https://github.com/Javierhvb/Project-Week-1-Build-Your-Own-Game)
+[Slides](https://drive.google.com/file/d/1iTdE_kqWFu6Wy00sk0jf1AHbzfel-KSK/view?usp=sharing)
 [Trello](https://trello.com/b/iAXEngpb/blackjack-project)  
