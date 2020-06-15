@@ -76,7 +76,7 @@ Your mentor is **not** meant to:
 * In the evening, start preparing the slides for Friday's presentation.
 
 **Friday**
-* Presentation time at **4PM**! There will be a 15-minute break during the presentations.
+* Presentation time at **3PM**! There will be a 15-minute break during the presentations.
 
 ## Presentation
 The presentation time limit is **5 minutes**! You will have **3 minutes** to present your project to the class and then **2 minutes** for Q&A.
