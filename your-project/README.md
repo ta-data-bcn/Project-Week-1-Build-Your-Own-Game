@@ -1,9 +1,10 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Guess the number
-*[Your Name]*
 
-*[Your Cohort, Campus & Date]*
+Marta Palleiro
+
+Data Analytics, Barcelona June 2020
 
 ## Content
 - [Project Description](#project-description)
@@ -13,10 +14,13 @@
 - [Links](#links)
 
 ## Project Description
+Guees the number is a game where you have to guess a number between 1 and 10 or between 1 and 100.
+
 Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
 
 ## Rules
-Briefly describe the rules of the game.
+First, you have to pick a level. If you choose easy you will have to guess a number between 1 and 10 and if you choose hard you will have to guess a number between 1 and 100.
+
 
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
