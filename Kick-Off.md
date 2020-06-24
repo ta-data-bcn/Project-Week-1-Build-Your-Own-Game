@@ -18,7 +18,7 @@ You are tasked with creating a **game** that interacts with the user, using func
 You will also present your game to the class.
 
 ## Games
-You must come to an agreement with your colleagues so that each of you develops one of the following games:
+You must come to an agreement with your colleagues so that only two of you develops one of the following games:
 
 * [Strong Random Password Generator](https://strongpasswordgenerator.com/)
 * [Guess The Number](https://www.funbrain.com/games/guess-the-number)
