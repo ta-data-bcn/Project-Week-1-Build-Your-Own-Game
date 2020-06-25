@@ -41,6 +41,6 @@ Inside the repository there is a folder named _Guess the number_. The folder con
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/albabalcells/Project-Week-1-Build-Your-Own-Game/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/b/QHmS0QUS/project-1-build-your-own-game/)  
+[Slides](https://drive.google.com/file/d/1n6W0RmnpQ2h1Cz5_a1qgrkOJJwbQbCGX/view?usp=sharing)  
+[Trello](https://trello.com/b/QHmS0QUS/project-1-build-your-own-game/)
 
