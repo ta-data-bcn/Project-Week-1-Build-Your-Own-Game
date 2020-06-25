@@ -34,6 +34,7 @@ My repository includes the code of the game and this READ ME file where I introd
 
 ## Links
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/martapalleiro/Project-Week-1-Build-Your-Own-Game)
+[Slides](https://slides.com/martapa/guess-the-number) 
+[Trello](https://trello.com/b/TUFKcHnI/guess-the-number)
+
