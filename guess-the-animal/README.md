@@ -1,11 +1,13 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# A random password generator
+# Guess the animal
+***
 *Mireia Guinovart*
 
-*Data Analysis 0620, Ironhack & 25 June 2020*
+*Data Analysis 0620, Ironhack (25 June 2020)*
 
 ## Content
+***
 - [Project Description](#project-description)
 - [Rules](#rules)
 - [Workflow](#workflow)
@@ -13,31 +15,44 @@
 - [Links](#links)
 
 ## Project Description
-This project is not really a game, but neither it is to forget every password I create (even the easy ones) and I play it everyday, so, why not create a difficult but secure password that I am allowed to forget properly ?
-The random password creator allows the user to create a password that includes lower and upper case, digits and symbols and includes the option to have a customisable password length that can range between 6 and 25 characters (variable default length of at least 15 characters).
+***
+This project is about learning. In this crazy world of ours, despite what some humans believe, we are not alone, we are surrounded by alive beings,plants, animals, fungii... and although some are more pleasants than others (no one likes the crazy neighbour shouting at 4am just because or that one mosquito that somehow has managed to get inside your room at night and has the most anoying flying sound that has ever existed) we can all agree that earth is our home. But do you really know their names? (apart from cat, dog, mushroom and weed that is) Do you know what an echinoderm is?. In this game you will be able to enhance your **ANIMAL** (yeah yeah, just animals) naming skills and learn how to classify them among other things. 
 
 ## Rules
-There are no rules only passwords to create. Let the password games begin and may the odds be ever in your favor!
+***
+Rules are simple but also important:
+- Do not be a cheater (no one likes those) and google stuff
+- Enjoy the game
+- Learn a lot
 
 ## Workflow
+***
 The workflow followed was the following:
-- Planning the structure of the password and the steps to follow 
-- Retrieving the project folder from github and cloning it
-- Creating a .gitignore file
-- Coding the password generator (different methods were tried before achiving the most appropiate one)
-- Debbuging the password generator
-- Improving the generator interface and visualization
-- preparing the read.me file with the game description
-- preparing the Power point presentation
+1. Planning the structure of the game and the steps to follow 
+2. Retrieving the project folder from github and cloning it
+3. Creating a .gitignore file
+4. Preparing the read.me file with the game description
+5. Coding the game
+    1. Get the scrambled animal name (option to guess it straight away)
+    2. Ask the directed questions to obtain extra info about the animal (questions limited to 3)
+    3. Guess the animal (give only 3 tries)
+    4. Show if they guessed it right or not
+    5. Show how many tries and questions you needed to guess it (if you did guess it right) 
+6. Debbuging the game
+7. Improving the game's interface and visualization
+9. preparing the Power point presentation
 
 ## Organization
-In order to follow the steps I needed to follow I used the kanban board Trello interface.
+***
+To mantain a structured workflow I used the Trello interface (kanbanboard) with checklists to keep track of my progress.
+The organisation of the repository is fairly simple. It contains the .ipynb file with the game as well as .png/.jpeg files used in the design of the visual interface.
 
 What does your repository look like? Explain your folder and file structure.
 
 ## Links
+***
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/rJUPYtig/project-1-create-a-game)  
