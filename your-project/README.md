@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# StopTheBus
+*[Carles Rosell Bernat]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analysis, Ironhack-BCN & 2020 May]*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,22 +13,29 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+The goal of the project is to create a game through programming and make it work.
+The choice for this project is Stop the Bus, a childs game focused on categories and words. 
 
 ## Rules
-Briefly describe the rules of the game.
+First, decide how many rounds will have the game
+Afterwards, the game starts.
+A random letter is generated and each team has to find a word for each category. This word has to start with the letter chosen at the beginning of the round.
+Once all the categories are filled, the round ends. The sum of the lenght of each word will be compared in between each team. The one team with the largest lenght, wins the round and scores +1
+The game ends when there is no more rounds.
+The team with higher score wins.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+In the first place, I decided wich steps I needed for the whole project.
+Then, I decided the order for each step and started developing the game.
+Once the coding was done, I checked for the bugs that I was able to fix.
+Finally I tried to run the program part by part, then the whole thing together.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+I used Trello
 
-What does your repository look like? Explain your folder and file structure.
+My repository have a folder with the functions I wanted to use, a couple of word documents with the rules and the workflow and all the documents generated through the programming.
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
-
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/oi2dsPh3/stop-the-bus-kanban-board)  
