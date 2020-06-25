@@ -40,5 +40,5 @@ The repository is simple and includes:
 ## Links
 
 [Repository] https://github.com/cris-arias/Project-Week-1-Build-Your-Own-Game.git 
-[Slides](https://slides.com/)  
+[Slides] https://slides.com/cris-arias/the-hangman 
 [Trello] https://trello.com/b/TwtyFOQ0 
