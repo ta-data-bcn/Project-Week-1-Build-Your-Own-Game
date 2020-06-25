@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# The Hangman
+*Cristina Arias*
 
-*[Your Cohort, Campus & Date]*
+*Data Analytics, Barcelona, June 26th, 2020*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,22 +13,32 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+The project consists in building "The Hangman" game and use at least one function in its coding. I chose this game because its rules are simple and it is easy fun.
 
 ## Rules
-Briefly describe the rules of the game.
+The user must guess a word randomnly selected by the program. 
+Wrong guesses must be less than 6 in order to win. Otherwise, the user loses. 
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+
+Preparation of the workspace (Github: folder, documents)
+Analysis and drawing of The Hangman's usual game structure.
+Brainstorming of what Python objects could I use to build that structure.
+Code game.
+Test game.
+Error handling.
+Presentation preparation (readme file and slides).
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+For organizing my work I used Trello.
 
-What does your repository look like? Explain your folder and file structure.
+The repository is simple and includes:
+- Game code
+- Readme file
+- Gitignore file
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
+[Repository] https://github.com/cris-arias/Project-Week-1-Build-Your-Own-Game.git 
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello] https://trello.com/b/TwtyFOQ0 
