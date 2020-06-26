@@ -47,7 +47,8 @@ The workflow followed was the following:
 ## Organization
 
 To mantain a structured workflow I used the Trello interface (kanbanboard) with checklists to keep track of my progress.
-The organisation of the repository is fairly simple. It contains the .ipynb file with the game as well as .png/.jpeg files used in the design of the visual interface.
+The organisation of the repository is fairly simple. It contains the .ipynb file with the game (GAME) and another one with the steps I followed. There are also  as .png/.jpeg files used in the design of the visual interface.
+
 
 
 ## Links
