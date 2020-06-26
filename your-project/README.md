@@ -30,6 +30,7 @@ Error handling.
 Presentation preparation (readme file and slides).
 
 ## Organization
+
 For organizing my work I used Trello.
 
 The repository is simple and includes:
@@ -40,5 +41,7 @@ The repository is simple and includes:
 ## Links
 
 [Repository] https://github.com/cris-arias/Project-Week-1-Build-Your-Own-Game.git 
+
 [Slides] https://slides.com/cris-arias/the-hangman 
+
 [Trello] https://trello.com/b/TwtyFOQ0 
