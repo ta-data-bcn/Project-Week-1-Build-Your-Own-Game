@@ -1,6 +1,5 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# <font color=blue|green|pink|yellow>Guess the animal</font> 
 ![](animal.jpg)
 
 *Mireia Guinovart*
