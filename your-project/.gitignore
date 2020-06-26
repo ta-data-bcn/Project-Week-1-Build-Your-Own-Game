@@ -21,6 +21,7 @@ ipython_config.py
 .DS_Store
 .AppleDouble
 .LSOverride
+test.txt
 
 # Icon must end with two \r
 Icon
