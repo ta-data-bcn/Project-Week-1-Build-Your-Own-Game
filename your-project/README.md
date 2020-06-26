@@ -42,10 +42,7 @@ There are several rules to take into account in this version of the game.
 
 ## Organization
 
-On the first step, while I was planning the logic and steps of my game, I also laid out a trello board where I placed all the steps that were necessary to commit my work. It looked something like this:
-
-<img src="../images/Kanban_Board.jpg" alt="This is a picture of the progress in my Kanban Board in Trello" title="Hangman Trello Board" />
-
+On the first step, while I was planning the logic and steps of my game, I also laid out a trello board where I placed all the steps that were necessary to commit my work. 
 
 My repository on the other hand, is divided in three different structures:
 
