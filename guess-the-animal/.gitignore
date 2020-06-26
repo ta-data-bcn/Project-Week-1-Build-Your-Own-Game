@@ -1,70 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,macos,microsoftoffice,images
-# Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,macos,microsoftoffice,images
-
-### Images ###
-# JPEG
-*.jpg
-*.jpeg
-*.jpe
-*.jif
-*.jfif
-*.jfi
-
-# JPEG 2000
-*.jp2
-*.j2k
-*.jpf
-*.jpx
-*.jpm
-*.mj2
-
-# JPEG XR
-*.jxr
-*.hdp
-*.wdp
-
-# Graphics Interchange Format
-*.gif
-
-# RAW
-*.raw
-
-# Web P
-*.webp
-
-# Portable Network Graphics
-*.png
-
-# Animated Portable Network Graphics
-*.apng
-
-# Multiple-image Network Graphics
-*.mng
-
-# Tagged Image File Format
-*.tiff
-*.tif
-
-# Scalable Vector Graphics
-*.svg
-*.svgz
-
-# Portable Document Format
-*.pdf
-
-# X BitMap
-*.xbm
-
-# BMP
-*.bmp
-*.dib
-
-# ICO
-*.ico
-
-# 3D Images
-*.3dm
-*.max
+# Created by https://www.toptal.com/developers/gitignore/api/macos,jupyternotebooks
+# Edit at https://www.toptal.com/developers/gitignore?templates=macos,jupyternotebooks
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
@@ -108,25 +43,4 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-### MicrosoftOffice ###
-*.tmp
-
-# Word temporary
-~$*.doc*
-
-# Word Auto Backup File
-Backup of *.doc*
-
-# Excel temporary
-~$*.xls*
-
-# Excel Backup File
-*.xlk
-
-# PowerPoint temporary
-~$*.ppt*
-
-# Visio autosave temporary files
-*.~vsd*
-
-# End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,macos,microsoftoffice,images
+# End of https://www.toptal.com/developers/gitignore/api/macos,jupyternotebooks
