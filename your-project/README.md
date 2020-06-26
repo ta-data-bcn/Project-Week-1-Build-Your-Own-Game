@@ -31,14 +31,12 @@ The workflow followed was the following:
 - preparing the Power point presentation
 
 ## Organization
-In order to follow the steps I needed to follow I used the kanban board Trello interface.
+In order to follow the steps I needed to follow I planned with pen an paper the structure of the project and what was supposed to be done in each step.
 
-What does your repository look like? Explain your folder and file structure.
+The repository has a simple layout and only contains the .ipynb file, a .png file needed for the .ipynb file, the README.md file and the .gitignore file.
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/mg365/Project-Week-1-Build-Your-Own-Game/tree/master/your-project)  
+ 
 
