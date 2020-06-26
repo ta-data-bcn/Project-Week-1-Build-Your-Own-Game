@@ -3,7 +3,7 @@
 # A random password generator
 *Mireia Guinovart*
 
-*Data Analysis 0620, Ironhack & 25 June 2020*
+*Data Analysis 0620, Ironhack , 25 June 2020*
 
 ## Content
 - [Project Description](#project-description)
