@@ -195,6 +195,23 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+Untitled2.ipynb
+Untitled1.ipynb
+cpu_chosenword_duringgame.ipynb
+cpu_teams_name.ipynb
+user_name.ipynb
+number_teams.ipynb
+function letter choice.ipynb
+Untitled-checkpoint.ipynb
+Untitled2-checkpoint.ipynb
+Untitled1-checkpoint.ipynb
+cpu_teams_name-checkpoint.ipynb
+number_teams-checkpoint.ipynb
+user_name-checkpoint.ipynb
+function letter choice-checkpoint.ipynb
+cpu_chosenword_duringgame-checkpoint.ipynb
+STOPthebus RULES.docx
+
 # IPython
 profile_default/
 ipython_config.py
@@ -275,20 +292,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-Untitled2.ipynb
-Untitled1.ipynb
-cpu_chosenword_duringgame.ipynb
-cpu_teams_name.ipynb
-user_name.ipynb
-number_teams.ipynb
-function letter choice.ipynb
-Untitled-checkpoint.ipynb
-Untitled2-checkpoint.ipynb
-Untitled1-checkpoint.ipynb
-cpu_teams_name-checkpoint.ipynb
-number_teams-checkpoint.ipynb
-user_name-checkpoint.ipynb
-function letter choice-checkpoint.ipynb
-cpu_chosenword_duringgame-checkpoint.ipynb
+
 
 # End of https://www.toptal.com/developers/gitignore/api/android,microsoftoffice,python,windows
