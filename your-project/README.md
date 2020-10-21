@@ -1,11 +1,11 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# Message encryptor
+*Anna Fonte Farré*
 
-*[Your Cohort, Campus & Date]*
+*Data Analytics, Barcelona & October 2020]*
 
-## Content
+## Table of contents
 - [Project Description](#project-description)
 - [Rules](#rules)
 - [Workflow](#workflow)
@@ -13,22 +13,25 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+Program for encrypting and decripting messages using the "Caesar algorythm". 
 
 ## Rules
-Briefly describe the rules of the game.
+The program will ask the user whether the user wants to encrypt or decrypt the message he or she will introduce. If the user wants to decrypt de message, the message will need to be encrypted with the same program.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+* Researching about encrypting algorithms
+* Define functions for encrypt and decrypt
+* Write code
+* Identify errors
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+The project has been outlined and organized through the tool Trello. For developing the workflow of the program, pencil and paper have been used. 
 
-What does your repository look like? Explain your folder and file structure.
+The repository containing the program consists of a folder that contains the main code with a Jupyter Notebook, a README file and a .gitignore
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/invite/b/ad3i45aF/b259d2c735472c281014a53cdaf92e60/project-1-game)  
