@@ -39,7 +39,7 @@ During this project you will:
 ## Requirements & Deliverables
 The **mandatory** requirements that this project needs to satisfy are:
 * The project must be planned. That is why creating a Kanban board is important. You can either do it manually (e.g. with post-its) or use an online tool like Trello. You can find a template for Trello [here](https://trello.com/b/pc2CNZTo/project-1-build-your-own-game). Remember that you **CAN'T CODE** until your project is planned.
-* Your repository must be clean and organized; this means that it must include a *.gitignore* file and a README file and also have a functional file structure.
+* Your repository must be clean and organized; this means that it must include a *.gitignore* file and a README file and also have a functional file structure. You can easily create a *.gitignore* template [here](https://www.toptal.com/developers/gitignore).
 * Your code must include at least one function.
 * The project needs to be presented to your colleagues on the day of the presentation.
 
