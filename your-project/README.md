@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Password Generator
-*Pau Sancho*
+**Pau Sancho**
 
-*Ironhack Barcelona Oct 2020]*
+**Ironhack Barcelona Oct 2020**
 
 ## Content
 - [Project Description](#project-description)
