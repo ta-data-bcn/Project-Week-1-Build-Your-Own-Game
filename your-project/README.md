@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# Password Generator
+*Pau Sancho*
 
-*[Your Cohort, Campus & Date]*
+*Ironhack Barcelona Oct 2020]*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,7 +13,7 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+I have created a software that helps users to create a strong password. Which they can use latter on their accounts to ensure that they are not hacked. 
 
 ## Rules
 Briefly describe the rules of the game.
