@@ -79,7 +79,7 @@ Your mentor is **not** meant to:
 * Presentation time at **3PM**! There will be a 15-minute break during the presentations.
 
 ## Presentation
-The presentation time limit is **5 minutes**! You will have **3 minutes** to present your project to the class and then **2 minutes** for Q&A.
+You will have **3 minutes** to present your project to the class and then **2 minutes** for Q&A.
 
 The slides of your presentation must include the content listed below and a demo of your game:
 
