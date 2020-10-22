@@ -13,13 +13,14 @@
 - [Links](#links)
 
 ## Project Description
-In this project I started building the popular game called Hangman. In our group we could chose between this game and the other well known called Tic Tac Toe. I used to play Hangman with my friends when I was young so that's the main reason why I chose this game. Also, I took into account the complexity of the games and the time limit we have Hangman more looks like an achievable mission.
+In this project I started building the popular game called Hangman. In our group we could chose between this game and the other well known called Tic Tac Toe. 
+I used to play Hangman with my friends when I was young so that's the main reason why I chose this game. Also, I took into account the complexity of the games and the time limit we have Hangman more looks like an achievable mission.
 
 ## Rules
 - Play with a group. 
 - Someone guess a word and writes it down.
 - Have a person select a letter of the alphabet.
-- If the letter is contained in the word/phrase, the group or individual takes another turn guessing a letter.  T
+- If the letter is contained in the word/phrase, the group or individual takes another turn guessing a letter.
 - If the letter is not contained in the word/phrase, the group or individual need to try again, a portion of the hangman is added. 
 
 The game continues until:
@@ -50,5 +51,5 @@ In my repository I have Hangman and Hangman_full .ipynb files. I'm testing every
 
 
 [Repository](https://github.com/Reka67/Project-Week-1-Build-Your-Own-Game/tree/master/your-project)  
-[Slides](https://slides.com/)  
+[Slides](https://www.canva.com/design/DAELRT73kC8/rJiH5aUXN5PHGekw1dRl7w/view?utm_content=DAELRT73kC8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)  
 [Trello](https://trello.com/b/KXDtR2vw/hangman)  
