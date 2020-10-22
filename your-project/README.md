@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# Try your luck
+*[María González]*
 
-*[Your Cohort, Campus & Date]*
+*[Barcelona & 23/10/2020]*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,22 +13,21 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+Ironhacker will have two opportunities out of ten options to win the game. 
 
 ## Rules
-Briefly describe the rules of the game.
+Ironhacker may guess a number between 1 and 10, during the first round it will inform if the number is higher or lower.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+At the time of using widgets the Ironhacker may select the number option and use the for conditional in order to give the result of the guess.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+First at all think about the project, in order to have clear the game that you want to code. Then think how you can introduce the widgets to your game. Finally, start coding from the easy part until the code gives you the right answer and then start increasing the difficulty.
 
-What does your repository look like? Explain your folder and file structure.
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/merygongon/Project-Week-1-Build-Your-Own-Game)  
+[Slides](https://docs.google.com/presentation/d/1quTrhqB8eR5jZW86XBUeE1pTyHuwqpgrxi9args5bkI/edit?usp=sharing)  
+[Trello](https://trello.com/b/Z3mcWRBP/guess-the-number)  
