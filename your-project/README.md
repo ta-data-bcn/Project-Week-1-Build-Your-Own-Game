@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# Strong Random Password Generator
+*[Jorge González]*
 
-*[Your Cohort, Campus & Date]*
+*[DataOct2020, Bcn & 22/10/2020]*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,22 +13,27 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+The game generate a password with as many characters as the user decide.
 
 ## Rules
-Briefly describe the rules of the game.
+The password must be alphanumeric.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+There will be three options available. The player can decide if he wants or does not want to play.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+- I have use a function.
+- I have imported 3 different modules.
+- I have used for Loop and if/else statements.
 
 What does your repository look like? Explain your folder and file structure.
+I have organized my repository in folders.
+Python files are in a unique folder with a .gitignore file and a README file.
+
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
+[Repository](https://github.com/Jyu-as/Project-Week-1-Build-Your-Own-Game)  
+[Slides](https://slides.com/jyu-as/deck-69dc30/edit)  
 [Trello](https://trello.com/en)  
