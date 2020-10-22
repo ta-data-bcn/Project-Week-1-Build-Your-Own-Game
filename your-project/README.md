@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Reka Varga]*
+# Hangman
+*Reka Varga*
 
 *[Your Cohort, Campus & Date]*
 
