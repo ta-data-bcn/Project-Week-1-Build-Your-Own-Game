@@ -19,8 +19,8 @@ Classical "Hangman" game with a country thematic.
 The rules are really simple:
 * You might fail a maximum of **10 times**.
 * The input can only be letters from **A-Z** and **blank space**.
-  * Exception: You can also type *1*, but **this will stop the game**.
-  * Blank space or more than one character is not allowed.
+  * Empty space or more than one character is not allowed.
+  * Exception: You can also type **1**, but **this will stop the game**.
 
 ## Workflow
 The workflow for Hangman was the following:
@@ -46,5 +46,5 @@ My repository looks the following way:
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/VictorLJay/Project-Week-1-Build-Your-Own-Game)  
-[Slides](https://slides.com/)  
+[Slides](https://slides.com/victorljay/the-hangman-project)  
 [Trello](https://trello.com/b/IqVVTmhu/project-1-build-your-own-game)  
