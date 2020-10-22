@@ -33,5 +33,5 @@ The repository containing the program consists of a folder that contains the mai
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/)  
-[Slides](https://slides.com/)  
+[Slides](https://docs.google.com/presentation/d/1e6WbWhHjYtJWwWd75LXRHDzfJkQtPRpgjmM3JWMdToQ/edit?usp=sharing)  
 [Trello](https://trello.com/b/KTobmMsK/encrypter)  
