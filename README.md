@@ -23,7 +23,6 @@ Users are able to specify the length of the password and the number of passwords
 2- If the user does not provide the correct information the system will keep asking for the right input.  
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
 
 1. Researched software examples
 2. Drafted the flow of the software
