@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Password Generator
+# Password Generator Software
 **Pau Sancho**
 
 **Ironhack Barcelona Oct 2020**
@@ -13,21 +13,30 @@
 - [Links](#links)
 
 ## Project Description
-This software helps users to create strong passwords. Which they can use latter on their accounts to ensure that they are not hacked. 
+This software generates passwords based on user inputs. 
+Users are able to specify the length of the password and the number of passwords they want, once the passwords are generated, the user can copy-paste them and use them as need it. 
 
 ## Rules
 
+1 - The user must answer all the questions in order for the software to generate the passwords. 
+
+2- If the user does not provide the correct information the system will keep asking for the right input.  
 
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
 
 1- Researched software examples
 2- Drafted the flow of the software
-4- Create the dictionaries for both encrypting and decrypting
-5- Define the encryption/decryption process functions
-6- Code the sequence for encrypting/decrypting a message
+4- Started to work on the password generator function. 
+5- Defined the questions functions. 
+6- Coded the sequence of the functions and added print messages and separation lines. 
 7- Tested the software
 8- Worked on the error handling
+9- Tested again
+10- Tested a bit more
+11- Added a new function to generate extra passwords
+12- Tested again 
+
 
 ## Organization
 
@@ -35,7 +44,7 @@ I organized my work with trello.
 
 I created a board with all the tasks and used a notebook and a pen to sketch some ideas on how the sowftare should work.   
 
-My repository contains a README.md file, a .gitignore and a folder called your-project with a main file containing code.
+My repository contains a README.md file, a .gitignore and a folder called your-project with a main file containing the code.
 
 
 ## Links
