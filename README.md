@@ -20,7 +20,7 @@ Users are able to specify the length of the password and the number of passwords
 
 1 - The user must answer all the questions in order for the software to generate the passwords. 
 
-2- If the user does not provide the correct information the system will keep asking for the right input.  
+2 - If the user does not provide the correct information the system will keep asking for the right input.  
 
 ## Workflow
 
@@ -34,7 +34,9 @@ Users are able to specify the length of the password and the number of passwords
 9. Tested again
 10. Tested a bit more
 11. Added a new function to generate extra passwords
-12. Tested again 
+12. Tested again
+13. Created a new notebook from which the main code is imported and the software is executed. 
+14. Tetsted some more
 
 ## Organization
 
@@ -42,7 +44,7 @@ I organized my work with trello.
 
 I created a board with all the tasks and used a notebook and a pen to sketch some ideas on how the sowftare should work.   
 
-My repository contains a README.md file, a .gitignore and a folder called your-project with a main file containing the code.
+My repository contains a README.md file, a .gitignore and a folder called your-project with a main.ipynb file containing the code, a main.py file and a password_generator_software.ipynb.
 
 ## Links
 [Repository](https://github.com/pausancho/Project-Week-1-Build-Your-Own-Game)  
