@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# Hangman “My favourite food”
+*[Daria Gavrilova]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics Oct 2020 , Barcelona 22.10.2020]*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,22 +13,27 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+I decided to make a version of a standard Hangman game,so my classmates can learn something new about me.
 
 ## Rules
-Briefly describe the rules of the game.
+This is an option of standard Hangman game.
+In this game player should guess word amount my favourite foods.
+Player has to choose any alphabetic letter. Player has 5 turns (5 times can make a mistake).
+If a word is guessed - player wins. If word is not guessed - player lose.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+Decided with thematic of the game.
+Defined tools that I would need.
+Made a to do list in Trello.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+I used Trello for my planning
+Repository contains code, readme and ignore files
 
-What does your repository look like? Explain your folder and file structure.
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Slides] https://slides.com/dariagavrilova-1/deck/edit  
+[Trello] https://trello.com/b/hDSj64qz/hangman
