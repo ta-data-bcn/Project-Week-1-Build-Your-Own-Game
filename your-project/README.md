@@ -27,7 +27,7 @@ The program will ask the user whether the user wants to encrypt or decrypt the m
 ## Organization
 The project has been outlined and organized through the tool Trello. For developing the workflow of the program, pencil and paper have been used. 
 
-The repository containing the program consists of a folder that contains the main code with a Jupyter Notebook, a README file and a .gitignore
+The repository containing the program consists of a folder that contains the main code with a Jupyter Notebook, a README file and a .gitignore file.
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
