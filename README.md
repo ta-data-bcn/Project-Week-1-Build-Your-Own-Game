@@ -25,18 +25,17 @@ Users are able to specify the length of the password and the number of passwords
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
 
-1- Researched software examples
-2- Drafted the flow of the software
-4- Started to work on the password generator function. 
-5- Defined the questions functions. 
-6- Coded the sequence of the functions and added print messages and separation lines. 
-7- Tested the software
-8- Worked on the error handling
-9- Tested again
-10- Tested a bit more
-11- Added a new function to generate extra passwords
-12- Tested again 
-
+1. Researched software examples
+2. Drafted the flow of the software
+4. Started to work on the password generator function. 
+5. Defined the questions functions. 
+6. Coded the sequence of the functions and added print messages and separation lines. 
+7. Tested the software
+8. Worked on the error handling
+9. Tested again
+10. Tested a bit more
+11. Added a new function to generate extra passwords
+12. Tested again 
 
 ## Organization
 
@@ -46,10 +45,7 @@ I created a board with all the tasks and used a notebook and a pen to sketch som
 
 My repository contains a README.md file, a .gitignore and a folder called your-project with a main file containing the code.
 
-
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
-
 [Repository](https://github.com/pausancho/Project-Week-1-Build-Your-Own-Game)  
 [Slides](https://docs.google.com/presentation/d/1lyjE0PBdWnQyagtZFekDTt2q6WyK60zUZTIGN0zatAE/edit?usp=sharing)  
 [Trello](https://trello.com/b/YKN7L9SH/project-1-pau-sancho)  
