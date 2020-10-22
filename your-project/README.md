@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of Your Project
-*[Your Name]*
+*Nick Deitmers*
 
-*[Your Cohort, Campus & Date]*
+*Data Analytics, BCN, Oct 2020*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,22 +13,17 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+I created a Blackjack game. It is with 1 player and the dealer.
 
 ## Rules
-Briefly describe the rules of the game.
+If the total of your hand is more than 21, you are dead.
+If the total of your hand is less than 21 but more than the total of the dealer's hand, you win.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+I categorized the code per round.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+I wrote my planning down manually.
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
-
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/NickDeitmers/Project-Week-1-Build-Your-Own-Game.git)   
