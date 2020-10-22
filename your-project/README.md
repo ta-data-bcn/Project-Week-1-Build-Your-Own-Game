@@ -23,7 +23,7 @@ If the total of your hand is less than 21 but more than the total of the dealer'
 I categorized the code per round.
 
 ## Organization
-I did not use a board to organize.
+I wrote my planning down manually.
 
 ## Links
 [Repository](https://github.com/NickDeitmers/Project-Week-1-Build-Your-Own-Game.git)   
