@@ -33,9 +33,9 @@ Outline the workflow you used in your project. What are the steps you went throu
 
 I organized my work with trello.
 
-I´ve created a board with all the tasks and used a notebook and a pen to sketch some ideas on how the sowftare should work.   
+I created a board with all the tasks and used a notebook and a pen to sketch some ideas on how the sowftare should work.   
 
-My repository is basic, with a README.md file, a .gitignore and a folder called code with a file with the software code.
+My repository contains a README.md file, a .gitignore and a folder called your-project with a main file containing code.
 
 
 ## Links
