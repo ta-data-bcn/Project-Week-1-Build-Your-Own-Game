@@ -44,8 +44,8 @@ The game continues until:
 ## Organization
 To have my work organized I used Trello.
 
-For this project I created a new folder in my Ironhack/Week1 folder and called Project1. Here I saved my repository.
-In my repository I have Hangman and Hangman_full .ipynb files. I'm testing everything in Hangman and once it works I update Hangman_full which is official file of the project. Also, there's the .gitignore file.
+For this project I created a new folder in my Ironhack/Week1 folder and called Project1_v3. Here I saved my repository.
+In my repository I have Hangman .ipynb file. Also, there's the .gitignore file.
 
 ## Links
 
