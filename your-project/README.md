@@ -13,8 +13,7 @@
 - [Links](#links)
 
 ## Project Description
-In this project I started building the popular game called Hangman. In our group we could chose between this game and the other well known called Tic Tac Toe. 
-I used to play Hangman with my friends when I was young so that's the main reason why I chose this game. Also, I took into account the complexity of the games and the time limit we have Hangman more looks like an achievable mission.
+In our group we had to choose between Hangman and the other well known game called Tic Tac Toe. I used to play Hangman with my friends when I was young so that's the main reason why I chose this game. Also, I took into account the complexity of the game and given the time limit we had, Hangman looked  like an achievable mission.
 
 ## Rules
 - Play with a group. 
