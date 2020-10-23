@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/python,microsoftoffice,jupyternotebooks
-# Edit at https://www.toptal.com/developers/gitignore?templates=python,microsoftoffice,jupyternotebooks
+# Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
+# Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
@@ -15,27 +15,6 @@ ipython_config.py
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
-
-### MicrosoftOffice ###
-*.tmp
-
-# Word temporary
-~$*.doc*
-
-# Word Auto Backup File
-Backup of *.doc*
-
-# Excel temporary
-~$*.xls*
-
-# Excel Backup File
-*.xlk
-
-# PowerPoint temporary
-~$*.ppt*
-
-# Visio autosave temporary files
-*.~vsd*
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
@@ -174,4 +153,4 @@ dmypy.json
 # profiling data
 .prof
 
-# End of https://www.toptal.com/developers/gitignore/api/python,microsoftoffice,jupyternotebooks
+# End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
