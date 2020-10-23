@@ -32,6 +32,6 @@ The repository containing the program consists of a folder that contains the mai
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/annafonte/Project-Week-1-Build-Your-Own-Game.git)  
 [Slides](https://docs.google.com/presentation/d/1e6WbWhHjYtJWwWd75LXRHDzfJkQtPRpgjmM3JWMdToQ/edit?usp=sharing)  
 [Trello](https://trello.com/b/KTobmMsK/encrypter)  
