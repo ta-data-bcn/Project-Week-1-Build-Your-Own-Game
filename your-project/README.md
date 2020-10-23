@@ -13,7 +13,7 @@
 - [Links](#links)
 
 ## Project Description
-In our group we had to choose between Hangman and the other well known game called Tic Tac Toe. I used to play Hangman with my friends when I was young so that's the main reason why I chose this game. Also, I took into account the complexity of the game and given the time limit we had, Hangman looked  like an achievable mission.
+In our group we had to choose between Hangman and the other well known game called Tic Tac Toe. I used to play Hangman with my friends when I was young so that's the main reason why I chose this game. 
 
 ## Rules
 - Play with a group. 
@@ -51,5 +51,5 @@ In my repository I have Hangman .ipynb file. Also, there's the .gitignore file.
 
 
 [Repository](https://github.com/Reka67/Project-Week-1-Build-Your-Own-Game/tree/master/your-project)  
-[Slides](https://www.canva.com/design/DAELRT73kC8/rJiH5aUXN5PHGekw1dRl7w/view?utm_content=DAELRT73kC8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)  
+[Slides](https://www.canva.com/design/DAELRT73kC8/rJiH5aUXN5PHGekw1dRl7w/view?utm_content=DAELRT73kC8&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)  
 [Trello](https://trello.com/b/KXDtR2vw/hangman)  
