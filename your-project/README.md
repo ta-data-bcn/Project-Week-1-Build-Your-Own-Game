@@ -35,16 +35,17 @@ The game continues until:
 5. Planning the steps of the game and adding to the To Do list - find an order
 6. Fork, clone repo, open Jupyter Notebook
 7. Coding until don't have the core of the code - troubleshoot, save
-8. Update README
-9. Start preparing the presentation
-10. Go back to the code and add features
-11. Update README, update presentation
+8. Meeting with the TA
+9. Update README
+10. Start preparing the presentation
+11. Go back to the code and add features
+12. Update README, update presentation
 
 
 ## Organization
 To have my work organized I used Trello.
 
-For this project I created a new folder in my Ironhack/Week1 folder and called Project1_v3. Here I saved my repository.
+For this project I created a new folder in my Ironhack/Week1 folder and called Project1_v4. Here I saved my repository.
 In my repository I have Hangman .ipynb file. Also, there's the .gitignore file.
 
 ## Links
