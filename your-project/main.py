@@ -108,7 +108,7 @@ def second_question():
 # In[5]:
 
 
-def first_question():
+def initialize():
 
     print("                                                            PASSWORD GENERATION SOFTWARE                                            \n\n                                                 Nine out of ten computer engineers don´t recomend it. ")
     print()
