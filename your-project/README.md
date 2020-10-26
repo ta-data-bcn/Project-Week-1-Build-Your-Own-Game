@@ -48,17 +48,15 @@ To achieve this, you have a maximum of 9 rounds. If you don't get it right at th
 ## Workflow
 
 - Clone remote repository in GitHub
-- Design game structure (pseudocode)
 - Create .gitignore file
 - Create Tello account
 - Create Medium account
-- Read Readme TA sent in Slack
-- Chose Slides Presentation
-- Research about the game
-- Code game
-- Error handling
-- Test game
-- Prepare presentation
+- Read Readme Tutorial
+- Design Game Structure
+- Code the Game
+- Error Handling
+- Test the Game
+- Prepare Presentation
 - Update readme.md
 
 ## Links
