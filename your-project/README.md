@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # THE MASTERMIND GAME
-*[Arnau Angerri]*
+*Arnau Angerri*
 
-*[Data Analytics Bootcamp - IronHack Barcelona - October 2020]*
+*Data Analytics Bootcamp - IronHack Barcelona - October 2020*
 
 ## Content
 - [Project Description](#project-description)
