@@ -47,19 +47,19 @@ To achieve this, you have a maximum of 9 rounds. If you don't get it right at th
 
 ## Workflow
 
-    1- Clone remote repository in GitHub
-    2 - Design game structure (pseudocode)
-    3 - Create .gitignore file
-    4 - Create Tello account
-    5 - Create Medium account
-    6 - Read Readme TA sent in Slack
-    7 - Chose Slides Presentation
-    8 - Research about the game
-    9 - Code game
-    10 - Error handling
-    11 - Test game
-    12 - Prepare presentation
-    13 - Update readme.md
+   1 - Clone remote repository in GitHub
+   2 - Design game structure (pseudocode)
+   3 - Create .gitignore file
+   4 - Create Tello account
+   5 - Create Medium account
+   6 - Read Readme TA sent in Slack
+   7 - Chose Slides Presentation
+   8 - Research about the game
+   9 - Code game
+   10 - Error handling
+   11 - Test game
+   12 - Prepare presentation
+   13 - Update readme.md
 
 ## Links
 
