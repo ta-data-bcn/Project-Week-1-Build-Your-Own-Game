@@ -15,7 +15,7 @@
 In this project, you will create your first software!
 You are tasked with creating a **game** that interacts with the user, using functions and other basic python resources you have learned during the week. Your game will be able to take an input from the user and provide an output.
 
-You will also present your game to the class.
+You will also present your game to the class..
 
 ## Games
 You will be assigned one of the following games:
