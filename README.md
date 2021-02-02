@@ -1,9 +1,8 @@
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
+<img src="https://raw.githubusercontent.com/Behzadkhosravifar/TicTacToe/master/src/Tic%20Tac%20Toe/Tic%20Tac%20Toe.ico" width="200"/>
 
-# TicTacToe Game
+# TicTacToe Game  
+
 Raul Castrillo Martinez
-
-Data full time, Ironhack Barcelona 22/oct/2020
 
 ## Content
 - [Project Description](#project-description)
@@ -13,11 +12,11 @@ Data full time, Ironhack Barcelona 22/oct/2020
 - [Links](#links)
 
 ## Project Description
+
 In this project, i will create my first python-based software!
-I am tasked with creating a TicTacToe game that interacts with the user, using functions and other basic python resources i have learned during the week.
+I will create a TicTacToe game that interacts with the user, using functions and other basic python resources.
 
 ## Rules
-
 
 - The game is played on a 3x3 grid.
 - Each grid cell has a number from 0 to 8 as it's coordinate, player must write the number of the cell where he wants to  place each token.
@@ -26,8 +25,6 @@ I am tasked with creating a TicTacToe game that interacts with the user, using f
 - When all 9 squares are full, the game is over.
 - Human Player will always starts first turn.
 - The computer opponent will place it's tokens randomly .
-
-
 
 ## Workflow
 
@@ -39,12 +36,12 @@ I am tasked with creating a TicTacToe game that interacts with the user, using f
 
 ## Organization
 
-To organize my project i used Trello kanbas tool to plan my project.
+To organize myself i used Trello kanbas tool to plan my project.
 
 
 ## Links
 
 
-- https://github.com/raulcastr/Project-Week-1-Build-Your-Own-Game           
+- https://github.com/raulcastr/TicTacToe-Game           
 - https://slides.com/raulcastr/tictactoc  
 - https://trello.com/b/LIJM1iAw/tic-tac-toe  
