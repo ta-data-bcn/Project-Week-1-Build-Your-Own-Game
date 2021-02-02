@@ -13,7 +13,7 @@ Raul Castrillo Martinez
 
 ## Project Description
 
-In this project, i will create my first python-based software!
+In this project, I will create my first python-based software!
 I will create a TicTacToe game that interacts with the user, using functions and other basic python resources.
 
 ## Rules
