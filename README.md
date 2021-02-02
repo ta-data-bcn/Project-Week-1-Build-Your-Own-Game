@@ -41,7 +41,7 @@ To organize myself i used Trello kanbas tool to plan my project.
 
 ## Links
 
+[Repository](https://github.com/raulcastr/TicTacToe-Game)  
+[Slides](https://slides.com/raulcastr/tictactoc)  
+[Trello](https://trello.com/b/LIJM1iAw/tic-tac-toe)  
 
-- https://github.com/raulcastr/TicTacToe-Game           
-- https://slides.com/raulcastr/tictactoc  
-- https://trello.com/b/LIJM1iAw/tic-tac-toe  
