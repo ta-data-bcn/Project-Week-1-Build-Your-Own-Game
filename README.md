@@ -36,7 +36,7 @@ I will create a TicTacToe game that interacts with the user, using functions and
 
 ## Organization
 
-To organize myself i used Trello kanbas tool to plan my project.
+To organize myself I used Trello kanbas tool to plan my project.
 
 
 ## Links
