@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# Hangman
+*Reka Varga*
 
-*[Your Cohort, Campus & Date]*
+*Data Analyst, Barcelona & October 2020*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,22 +13,43 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+In our group we had to choose between Hangman and the other well known game called Tic Tac Toe. I used to play Hangman with my friends when I was young so that's the main reason why I chose this game. 
 
 ## Rules
-Briefly describe the rules of the game.
+- Play with a group. 
+- Someone guess a word and writes it down.
+- Have a person select a letter of the alphabet.
+- If the letter is contained in the word/phrase, the group or individual takes another turn guessing a letter.
+- If the letter is not contained in the word/phrase, the group or individual need to try again, a portion of the hangman is added. 
+
+The game continues until:
+- the word/phrase is guessed (all letters are revealed) – WINNER or,
+- all the parts of the hangman are displayed – LOSER
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+1. Read the requirements
+2. Open a new Trello card for the project
+3. Read the requirements again and adding everything to the To Do list in Trello
+4. Read the rules of the game
+5. Planning the steps of the game and adding to the To Do list - find an order
+6. Fork, clone repo, open Jupyter Notebook
+7. Coding until don't have the core of the code - troubleshoot, save
+8. Meeting with the TA
+9. Update README
+10. Start preparing the presentation
+11. Go back to the code and add features
+12. Update README, update presentation
+
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+To have my work organized I used Trello.
 
-What does your repository look like? Explain your folder and file structure.
+For this project I created a new folder in my Ironhack/Week1 folder and called Project1_v4. Here I saved my repository.
+In my repository I have Hangman .ipynb file. Also, there's the .gitignore file.
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+
+[Repository](https://github.com/Reka67/Project-Week-1-Build-Your-Own-Game/tree/master/your-project)  
+[Slides](https://www.canva.com/design/DAELRT73kC8/rJiH5aUXN5PHGekw1dRl7w/view?utm_content=DAELRT73kC8&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)  
+[Trello](https://trello.com/b/KXDtR2vw/hangman)  
