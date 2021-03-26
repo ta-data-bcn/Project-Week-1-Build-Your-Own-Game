@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of Your Project
-*[Your Name]*
+*Tsvetelina Minkova*
 
-*[Your Cohort, Campus & Date]*
+*DAFT MAR2021, Remote & 3/26/2021]*
 
 ## Content
 - [Project Description](#project-description)
