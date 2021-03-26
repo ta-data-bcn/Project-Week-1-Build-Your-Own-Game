@@ -37,4 +37,4 @@ Include links to your repository, slides and kanban board. Feel free to include 
 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/g3VpUKeH/project-week-1-password-generator)  
