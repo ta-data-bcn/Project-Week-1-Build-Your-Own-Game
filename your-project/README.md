@@ -33,8 +33,7 @@ I organized the whole process of the project in Trello.
 What does your repository look like? Explain your folder and file structure.
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/tminkova/Project-Week-1-Build-Your-Own-Game-1)  
 [Slides](https://slides.com/)  
 [Trello](https://trello.com/b/g3VpUKeH/project-week-1-password-generator)  
