@@ -13,7 +13,7 @@
 - [Links](#links)
 
 ## Project Description
-The Password Generator creates a password according to your wishes after responding to a few essential questions. For a strong password there are a few recommendations as well. I chose it among the others as it looks simple and practical in the same time. I am going to use it for my personal needs and will never have the same passwords as I used to so far.
+The Password Generator creates a password according to user's wishes after responding to a few essential questions. For a strong password there are a few recommendations as well. I chose it among the others as it looks simple and practical in the same time. I am going to use it for my personal needs and will never have the same passwords as I used to so far.
 
 ## Rules
 Respond to a question with an integer from 4 to 32
