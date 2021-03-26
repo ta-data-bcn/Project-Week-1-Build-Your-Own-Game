@@ -28,12 +28,13 @@ After that I put all the created variables and conditions into a new function ca
 Last step is the generated password.
 
 ## Organization
-I organized the whole process of the project in Trello.
+I organized the whole process of the project in Trello. For the code itself I used Jupyter Notebook. For the slides I used Power Point 
 
-What does your repository look like? Explain your folder and file structure.
+The repository includes a folder your-project and a md file Kick-Off explaining the requirements. The folder includes a README file with the detailed explanations about the project and the Jupyter Notebook file that includes the code iteself.
+
 
 ## Links
 
 [Repository](https://github.com/tminkova/Project-Week-1-Build-Your-Own-Game-1)  
-[Slides](https://slides.com/)  
+[Slides](https://drive.google.com/file/d/1EjNilOXVZKO69yakvui6AoJfALcZXukn/view?usp=sharing)  
 [Trello](https://trello.com/b/g3VpUKeH/project-week-1-password-generator)  
