@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
+# Pasword Generator
 *Tsvetelina Minkova*
 
 *DAFT MAR2021, Remote & 3/26/2021]*
