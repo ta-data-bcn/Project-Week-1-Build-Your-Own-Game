@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# Pasword Generator
+*Tsvetelina Minkova*
 
-*[Your Cohort, Campus & Date]*
+*DAFT MAR2021, Remote & 3/26/2021]*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,22 +13,28 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+The Password Generator creates a password according to user's wishes after responding to a few essential questions. For a strong password there are a few recommendations as well. I chose it among the others as it looks simple and practical in the same time. I am going to use it for my personal needs and will never have the same passwords as I used to so far.
 
 ## Rules
-Briefly describe the rules of the game.
+Respond to a question with an integer from 4 to 32
+Respond with Y (for Yes) and N (for No) to the other 4 questions
+
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+First, there is un input function asking to choose an integer number between 4 and 32.
+Then, again input functions to questions if the user would want the password to include Uppercase letters, Lowercase letters, Number and Symbols. But to those the answers are only with Yes or No.
+Each of those answers create a variable.
+After that I put all the created variables and conditions into a new function called Password Generator.
+Last step is the generated password.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+I organized the whole process of the project in Trello. For the code itself I used Jupyter Notebook. For the slides I used Power Point 
 
-What does your repository look like? Explain your folder and file structure.
+The repository includes a folder your-project and a md file Kick-Off explaining the requirements. The folder includes a README file with the detailed explanations about the project and the Jupyter Notebook file that includes the code iteself.
+
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/tminkova/Project-Week-1-Build-Your-Own-Game-1)  
+[Slides](https://drive.google.com/file/d/1EjNilOXVZKO69yakvui6AoJfALcZXukn/view?usp=sharing)  
+[Trello](https://trello.com/b/g3VpUKeH/project-week-1-password-generator)  
