@@ -1,0 +1,227 @@
+BrowserLock/
+	.CFUserTextEncoding
+	.DS_Store
+	.anaconda/
+	.anyconnect
+	.bash_history
+	.bash_profile
+	.bash_sessions/
+	.cisco/
+	.conda/
+	.condarc
+	.config/
+	.continuum/
+	.cups/
+	.fontconfig/
+	.gitconfig
+	.ipynb_checkpoints/
+	.ipython/
+	.jupyter/
+	.python_history
+	.spss/
+	.tcshrc
+	.xonshrc
+	.zshrc
+	Applications/
+	Creative Cloud Files/
+	Desktop/.DS_Store
+	Desktop/.ipynb_checkpoints/
+	Desktop/.localized
+	Desktop/3. Semester/
+	Desktop/4. Semester/
+	Desktop/5. Semester/
+	Desktop/6. Semester/
+	Desktop/Alisa Bewerbung/
+	Desktop/Auslandsemester Sydney/
+	Desktop/Bachelorarbeit/
+	Desktop/Bewerbung Alles/
+	Desktop/Bewerbung Personal Fit/
+	Desktop/Bewerbung workshops/
+	Desktop/Bildschirmfoto 2021-06-03 um 10.01.09 (2).png
+	Desktop/Bildschirmfoto 2021-06-03 um 10.01.09.png
+	Desktop/Bildschirmfoto 2021-06-03 um 11.12.30 (2).png
+	Desktop/Bildschirmfoto 2021-06-03 um 11.12.30.png
+	Desktop/Bildschirmfoto 2021-06-03 um 11.12.36 (2).png
+	Desktop/Bildschirmfoto 2021-06-03 um 11.12.36.png
+	Desktop/Consulting Club/
+	Desktop/ESCP/
+	Desktop/Error_handling/
+	Desktop/GMAT/
+	Desktop/IE/
+	Desktop/Imperial/
+	Desktop/Ironhack All/
+	Desktop/LAB_dicts/
+	Desktop/LSE/
+	Desktop/MySQLWorkbench.app/
+	Desktop/Power Point Templates/
+	Desktop/Presentation_game.pptx
+	Desktop/Private/
+	Desktop/RealityConverter.pkg
+	Desktop/Strategy&/
+	Desktop/Versicherung/
+	Desktop/ironhack/.DS_Store
+	Desktop/ironhack/EN_Project1/Project-Week-1-Build-Your-Own-Game-1/.gitignore
+	Desktop/ironhack/EN_Project1/Project-Week-1-Build-Your-Own-Game-1/.ipynb_checkpoints/
+	Desktop/ironhack/EN_Project1/Project-Week-1-Build-Your-Own-Game-1/Project1_Game.ipynb
+	Desktop/ironhack/EN_Project1/Project-Week-1-Build-Your-Own-Game-1/README.ipynb
+	Desktop/lab-jupyter-notebook/
+	Desktop/lab-tuple-set-dict Kopie/
+	Desktop/mysql-8.0.25-macos11-x86_64.pkg
+	Desktop/reduce_filter/
+	Desktop/string_operations/
+	"Desktop/~$ Lorenz open f\303\274r neue korrekturen.docx"
+	Desktop/~$- Arbeit.docx
+	Desktop/~$2019_Bootstrapping_Exercise_02 NEU.xlsx
+	Desktop/~$2019_Postponement_Exercise neu.xlsx
+	Desktop/~$ABC XYZ Inhalt.xlsx
+	Desktop/~$ALibaba.pptx
+	Desktop/~$Bain.docx
+	Desktop/~$C anschreiben neu_comments.docx
+	Desktop/~$E application.docx
+	Desktop/~$ESTEL1.docx
+	Desktop/~$GMAT-Prep-Now-Improvement-Chart-for-OG2021_0(Automatisch wiederhergestellt).xlsx
+	Desktop/~$Geschlecht- Attribute.xlsx
+	Desktop/~$IMT One pager.pptx
+	"Desktop/~$Instagram Influencer pr\303\244sentation.pptx"
+	Desktop/~$JA NEIN Vorteile.xlsx
+	Desktop/~$Kommunikations- und Medienmanagement-2.pptx
+	Desktop/~$LSE.docx
+	Desktop/~$Lernplan.pptx
+	Desktop/~$Lernplan.xlsx
+	Desktop/~$Mappe3.xlsx
+	Desktop/~$Mappe4.xlsx
+	"Desktop/~$M\303\244nnlichweiblich.xlsx"
+	Desktop/~$PPP Influencer fast fertig 3.pptx
+	Desktop/~$PPP Influencer.pptx
+	Desktop/~$Pra%CC%88sentation1 [Automatisch gespeichert].pptx
+	Desktop/~$Reko 4.docx
+	Desktop/~$Reko 6.docx
+	Desktop/~$SE neu.docx
+	Desktop/~$STEL Analysis.docx
+	Desktop/~$T Text.docx
+	Desktop/~$TA prsentation..docx
+	Desktop/~$Tata.pptx
+	Desktop/~$Tech.xlsx
+	Desktop/~$Test 1.xlsx
+	Desktop/~$Unterlagen.xlsx
+	"Desktop/~$Ver\303\244ndert.xlsx"
+	Desktop/~$Zusammenfassung.xlsx
+	Desktop/~$agebogen.docx
+	Desktop/~$agemn Bachelorarbeiten:Masterarbeiten.docx
+	Desktop/~$alibaba tabellen.pptx
+	Desktop/~$anchenanalyse Theorie und Praxis.docx
+	Desktop/~$ausur hm.docx
+	Desktop/~$ausur, hm.docx
+	Desktop/~$axisbezug Peter Ulrich.docx
+	Desktop/~$beitshypothesen.docx
+	Desktop/~$benslauf new version.docx
+	Desktop/~$bject Outline Finance.docx
+	Desktop/~$c Social Innovation and Entrepreneurship.docx
+	Desktop/~$chelor Arbeit.docx
+	Desktop/~$chelorarbeit Finish.docx
+	Desktop/~$chelorarbeit Fragen.docx
+	Desktop/~$chelorarbeit Hauptteil neudocx.docx
+	Desktop/~$chelorarbeit Hauptteil.docx
+	Desktop/~$chelorarbeit hauptteil neu.docx
+	Desktop/~$chelorarbeit.docx
+	Desktop/~$chelorarbeit_EN3.docx
+	Desktop/~$chelorarbeit_EN_Archiv 2.docx
+	Desktop/~$cht Zusammenfassung.docx
+	Desktop/~$cio Political Text 1.docx
+	Desktop/~$cio political management privatization of war.docx
+	Desktop/~$cket list neu.docx
+	Desktop/~$cket list.docx
+	Desktop/~$commendation Alibaba.docx
+	Desktop/~$derationsphasen.docx
+	Desktop/~$dwig Bewerbung_Word EN.docx
+	"Desktop/~$ellen \303\234bersicht.docx"
+	Desktop/~$ellenzusammenfassung Alibaba+.docx
+	Desktop/~$emens Fallstudie.docx
+	Desktop/~$euern Fragezettel.docx
+	Desktop/~$ference Letter 2.docx
+	Desktop/~$ference Letter Prof.Dr.Booms.docx
+	Desktop/~$ference Letter Prof.Dr.Fleisch.docx
+	Desktop/~$ference letter 1.docx
+	Desktop/~$fluencer Drucken.docx
+	Desktop/~$fteilung IMT.docx
+	Desktop/~$ibaba 1.docx
+	Desktop/~$ibaba2.docx
+	Desktop/~$ichard.docx
+	Desktop/~$in tools.docx
+	Desktop/~$isa Praktikum Elina.docx
+	Desktop/~$isa_Neu_Praktikum .docx
+	Desktop/~$iting Toeffl.docx
+	Desktop/~$ko Arbeit Gliederung (Automatisch gespeichert).docx
+	Desktop/~$ko Arbeit Gliederung.docx
+	Desktop/~$kro Class Outline.docx
+	"Desktop/~$l L\303\266schen.docx"
+	"Desktop/~$l L\303\266schen1.docx"
+	Desktop/~$l Texts.docx
+	Desktop/~$lernplan x.pptx
+	Desktop/~$libaba.docx
+	"Desktop/~$l\303\266scht ba.docx"
+	Desktop/~$minararbeit Medien & Kommunikationsmanagement (Final).docx
+	Desktop/~$ndelsmanagement 6, Beschaffungskompetenz.docx
+	Desktop/~$ndover Weekend.docx
+	Desktop/~$neu.xlsx
+	Desktop/~$nossenschaft.docx
+	Desktop/~$oduktsicherheitsgesetz neu.docx
+	Desktop/~$per Medien und Kommunikationsmanagement.docx
+	Desktop/~$perial Application neu1.docx
+	Desktop/~$perial Application.docx
+	Desktop/~$plication Digital Innovation Helena.docx
+	Desktop/~$plication Social Innovation.docx
+	Desktop/~$pothesen.docx
+	Desktop/~$pply Chain simulation.docx
+	Desktop/~$r Mensch als Marke1.docx
+	Desktop/~$r Mensch als Marke1a.docx
+	Desktop/~$rategisches first draft.docx
+	Desktop/~$rategy Statement.docx
+	Desktop/~$rategy TATA Motors.docx
+	Desktop/~$rategy.docx
+	"Desktop/~$rketing \303\234bung 1 Fallstudie MINI.docx"
+	Desktop/~$rnplan.docx
+	Desktop/~$rsonal FIT Questions.docx
+	Desktop/~$rsonengesellschaften vs Kapitalgesellschaften gewinnbesteuerung.docx
+	Desktop/~$rtschaftsrecht ZSF. Elinadocx.docx
+	Desktop/~$rucken.docx
+	"Desktop/~$sammenfassung Fif\303\274.docx"
+	Desktop/~$schreiben BCG.docx
+	Desktop/~$schreiben BCG_Elina_Neu.docx
+	Desktop/~$schreiben Mc Kinsey_Elina.docx
+	Desktop/~$se new.docx
+	Desktop/~$sonders wichtige Fragen Bain.docx
+	Desktop/~$tegrationsseminar Drucken.docx
+	Desktop/~$teratur (1) (Luisas MacBook Pros in Konflikt stehende Kopie 2018-11-22).docx
+	Desktop/~$test.xlsx
+	Desktop/~$test2.xlsx
+	Desktop/~$tivationsschreiben Flick Gocke Schaumburg korrigiert.docx
+	Desktop/~$tivationsschreiben.docx
+	Desktop/~$u citation.docx
+	Desktop/~$ucken 2.docx
+	Desktop/~$ues anschreiben.docx
+	Desktop/~$uppenarbeit 3.docx
+	Desktop/~$w lebenslauf.docx
+	Desktop/~$xusbranche Alisa.docx
+	Documents/
+	Downloads/
+	IBM/
+	Library/
+	Movies/
+	Music/
+	PWC anschreiben neu_comments.docx
+	Pictures/
+	Public/
+	Syntax1.sps
+	TEST/
+	Untitled.ipynb
+	Untitled1.ipynb
+	Untitled2.ipynb
+	Untitled3.ipynb
+	Untitled4.ipynb
+	Zotero/
+	alles.spv
+	copied.txt
+	hello.txt
+	new-file.txt
+	opt/
